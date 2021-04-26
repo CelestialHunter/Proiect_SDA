@@ -1,0 +1,10 @@
+Tencuiala 3102 3 kg 19500 0.91
+Cherestea 2001 2 m 3000 15.17
+Grinda 2010 2 m 1550 49.75
+Bumbac 4001 2 m 1000 40.00
+Bumbac 4002 2 m 1000 47.00
+Panza 4003 2 m 1000 61.00
+Canepa 4004 2 m 1200 66.00
+Ovaz 1020 1 kg 500 6.20
+Quinoa 1021 1 kg 250 19.00
+Quinoa 1022 1 kg 500 13.50
