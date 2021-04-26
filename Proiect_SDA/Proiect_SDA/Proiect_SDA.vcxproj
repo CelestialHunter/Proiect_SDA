@@ -144,6 +144,9 @@
   <ItemGroup>
     <Text Include="f1.txt" />
     <Text Include="f2.txt" />
+    <Text Include="f_a.txt" />
+    <Text Include="f_b.txt" />
+    <Text Include="f_m.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

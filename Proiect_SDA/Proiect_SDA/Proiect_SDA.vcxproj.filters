@@ -26,5 +26,14 @@
     <Text Include="f2.txt">
       <Filter>Resource Files</Filter>
     </Text>
+    <Text Include="f_a.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="f_b.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="f_m.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
   </ItemGroup>
 </Project>
