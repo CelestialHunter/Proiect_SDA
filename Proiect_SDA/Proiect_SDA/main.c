@@ -224,7 +224,7 @@ void _afisareMatNume() {
 
 int isNumeric(char* s) { // pentru validare cod
 	for (int i = 0; i < strlen(s); i++) {
-		if (strchr("01234567890", s[i]) == NULL)
+		if (strchr("0123456789", s[i]) == NULL)
 			return 0;
 	}
 	return 1;
